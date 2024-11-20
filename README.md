@@ -120,10 +120,6 @@ The output of this project includes:
 
 ---
 
-#### License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
 
 This `README.md` file provides an overview of the project, how to run it, and the steps involved in the analysis. You can adjust the sections to fit specific project requirements.
