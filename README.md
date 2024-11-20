@@ -95,7 +95,7 @@ The output of this project includes:
 1. **Clone the Repository**:
    - Clone this repository to your local machine using:
      ```bash
-     git clone https://github.com/your-username/customer-segmentation.git
+     gh repo clone Himansh9532/CUSTOMER-SEGMENTATION-USING-CLUSTERING
      ```
 
 2. **Install Dependencies**:
@@ -107,7 +107,7 @@ The output of this project includes:
 3. **Run the Analysis**:
    - Run the Python script or Jupyter notebook to see the customer segmentation and visualizations.
      ```bash
-     python customer_segmentation.py
+     python app.py
      ```
 
 ---
